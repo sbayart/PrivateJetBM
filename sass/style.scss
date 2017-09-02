@@ -9,3 +9,23 @@
 */
 
 
+
+html, body, header, .conthead, .headerback {
+    height: 100%;
+}
+
+.custom-header {
+	.custom-header-media {
+		background-size: cover;
+	}
+	.site-branding {
+		font-family: 'Cinzel', cursive;
+		.wrap {
+			margin-left: 55%;
+		}
+		.site-title {
+			font-size: 4.25rem;
+			text-transform: uppercase;
+		}
+	}
+}

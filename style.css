@@ -7,5 +7,17 @@
  Version:      1.0.0
  Text Domain:  twenty-seventeen-child
 */
+html, body, header, .conthead, .headerback {
+  height: 100%; }
+
+.custom-header .custom-header-media {
+  background-size: cover; }
+.custom-header .site-branding {
+  font-family: 'Cinzel', cursive; }
+  .custom-header .site-branding .wrap {
+    margin-left: 55%; }
+  .custom-header .site-branding .site-title {
+    font-size: 4.25rem;
+    text-transform: uppercase; }
 
 /*# sourceMappingURL=style.css.map */
