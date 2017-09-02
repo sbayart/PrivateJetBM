@@ -20,4 +20,7 @@ html, body, header, .conthead, .headerback {
     font-size: 4.25rem;
     text-transform: uppercase; }
 
+footer {
+  background-color: black; }
+
 /*# sourceMappingURL=style.css.map */
